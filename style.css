@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .navbar{
-    height: 10vh;
+    height: 12vh;
     width: 100%;
  background:linear-gradient(to right,blueviolet,violet);
  background-position: center;
@@ -20,7 +20,7 @@ ul{
 }
 .list{
     display: inline-block;
-    padding: 10px 75px;
+    padding: 10px 75px ;
     align-items: stretch;
     text-decoration: none;
 
@@ -39,7 +39,16 @@ b{
 }
 i{
     padding-left: 10px;
+    text-align: justify;
 }
 body{
-    background: linear-gradient(to right,#28313B,#485461);
+    background: linear-gradient(to right,#FFAFBD,#ffc3a0);
+}
+.GD{
+    height: 25vw;
+    width: 30%;
+    float: right;
+}
+aside{
+    text-align:right;
 }
